@@ -20,7 +20,7 @@ Whether you're on **HyperOS 1** or **HyperOS 2**, these modules bring a fresh ne
 - ✅ **New UI Sounds** – Enhanced audio feedback! 🎼  
 - ✅ **Charging Animation** – Enhanced charging animation! ⚡🔋
 - ✅ **Bootanimation** – Sleek startup visual! 🚀  
-- ✅ **iOS Launcher Mod** – The smoothest iOS-styled Launcher UI! 🍏 ( Thanks to  **[OrcaOnSteroids](https://t.me/OrcaOnSteroids)** )
+- ✅ **iOS Launcher Mod** – The smoothest iOS-styled Launcher UI! 🍏 ( Thanks to  **[OrcaOnSteroids](https://t.me/OrcaOnSteroids)** ) <br>
 And a special thanks to  **[ukriu](https://github.com/ukriu)** for the installation scripts. 💝
 
 ---  
