@@ -23,7 +23,7 @@ Whether you're on **HyperOS 1** or **HyperOS 2**, these modules bring a fresh ne
 
 ---  
 
-📥 **[Download Now](#)** from the releases! 🔗  
+📥 **[Download Now](https://github.com/VizXtreme/HyperOS-Mods/releases/)** from the releases! 🔗  
 
 > ⚠ **Important Notes:**  
 > - Ensure you install the **correct module** for your **HyperOS version**!  
