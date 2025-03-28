@@ -11,6 +11,7 @@ Whether you're on **HyperOS 1** or **HyperOS 2**, these modules bring a fresh ne
 - ✅ **Charging Animation** – A slick new charging experience! ⚡🔋  
 - ✅ **Bootanimation** – Revamp your startup look! 🚀  
 - ✅ **iOS Launcher Mod** – A seamless, premium iOS-inspired interface! 🍏 
+- ✅ **Package Installer** – A refreshed package installer interface! ✨  ( Thanks to **[ModsCenter](https://t.me/bootloop_discussion)** for launcher and pkg installer )
 
 ## ⚡ HyperOS 2 Mods  
 ✨ **Features:**  
@@ -18,7 +19,7 @@ Whether you're on **HyperOS 1** or **HyperOS 2**, these modules bring a fresh ne
 - ✅ **Control Center** – To be added soon, so stay tuned! 😊
 - ✅ **New UI Sounds** – Enhanced audio feedback! 🎼  
 - ✅ **Charging Animation** – Enhanced charging animation! ⚡🔋
-- ✅ **Bootanimation** – Sleek startup visuals! 🚀  
+- ✅ **Bootanimation** – Sleek startup visual! 🚀  
 - ✅ **iOS Launcher Mod** – The smoothest iOS-styled Launcher UI! 🍏 ( Thanks to  **[OrcaOnSteroids](https://t.me/OrcaOnSteroids)** )
 
 ---  
