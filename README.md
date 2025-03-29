@@ -1,7 +1,7 @@
 # 🚀 HyperOS Mods – Elevate Your Experience! 🔥💥  
 
 Unleash the full potential of your device with **HyperOS Mods**!  
-Whether you're on **HyperOS 1** or **HyperOS 2**, these modules bring a fresh new vibe with enhanced visuals and sounds. 🎨🔊  
+Whether you're on **HyperOS 1** or **HyperOS 2**, these modules bring a fresh new vibe with enhanced visuals and sounds. 🎨
 
 ## ⚡ HyperOS 1 Mods  
 ✨ **Features:**  
@@ -10,8 +10,8 @@ Whether you're on **HyperOS 1** or **HyperOS 2**, these modules bring a fresh ne
 - ✅ **New UI Sounds** – New system sound effects! 🎶  
 - ✅ **Charging Animation** – A slick new charging experience! ⚡🔋  
 - ✅ **Bootanimation** – Revamp your startup look! 🚀  
-- ✅ **iOS Launcher Mod** – A seamless, premium iOS-inspired interface! 🍏 
-- ✅ **Package Installer** – A refreshed package installer interface! ✨  ( Thanks to **[ModsCenter](https://t.me/bootloop_discussion)** for launcher and pkg installer )
+- ✅ **iOS Launcher Mod** – A seamless, premium iOS-inspired interface! 🍏 (⚠️ Not for Poco devices ⚠️) 
+- ✅ **Package Installer** – A refreshed package installer interface! ✨  
 
 ## ⚡ HyperOS 2 Mods  
 ✨ **Features:**  
@@ -20,8 +20,13 @@ Whether you're on **HyperOS 1** or **HyperOS 2**, these modules bring a fresh ne
 - ✅ **New UI Sounds** – Enhanced audio feedback! 🎼  
 - ✅ **Charging Animation** – Enhanced charging animation! ⚡🔋
 - ✅ **Bootanimation** – Sleek startup visual! 🚀  
-- ✅ **iOS Launcher Mod** – The smoothest iOS-styled Launcher UI! 🍏 ( Thanks to  **[OrcaOnSteroids](https://t.me/OrcaOnSteroids)** ) <br>
-And a special thanks to  **[ukriu](https://github.com/ukriu)** for the installation scripts. 💝
+- ✅ **iOS Launcher Mod** – The smoothest iOS-styled Launcher UI, also compatible with POCO devices ! 🍏 
+
+## Credits 🏅 
+Thanks to :  
+• **[ModsCenter](https://t.me/bootloop_discussion)** for the HyperOS 1 Launcher Mod. 💝  <br>
+• **[OrcaOnSteroids](https://t.me/OrcaOnSteroids)**  for the HyperOS 2 Launcher Mod. 💝 <br>
+• **[ukriu](https://github.com/ukriu)** for the installation scripts. 💝
 
 ---  
 
