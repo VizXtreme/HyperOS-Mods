@@ -29,4 +29,5 @@ And a special thanks to  **[ukriu](https://github.com/ukriu)** for the installat
 
 > ⚠ **Important Notes:**  
 > - Ensure you install the **correct module** for your **HyperOS version**!  
+> - Turn off '**Unmount Modules**' in **KernelSU / KernelSU Next** settings to prevent abnormalities. 
 > - Flashing incompatible module **may cause unexpected issues.** 🚨  
