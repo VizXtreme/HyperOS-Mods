@@ -10,9 +10,10 @@ Whether you're on **HyperOS 1** or **HyperOS 2**, these modules bring a fresh ne
 - ✅ **New UI Sounds** – New system sound effects! 🎶  
 - ✅ **Charging Animation** – A slick new charging experience! ⚡🔋  
 - ✅ **Bootanimation** – Revamp your startup look! 🚀  
-- ✅ **iOS Launcher Mod** – A seamless, premium iOS-inspired interface! 🍏 (⚠️ Not for Poco devices ⚠️) 
-- ✅ **Package Installer** – A refreshed package installer interface! ✨  
-
+- ✅ **iOS Launcher Mod** – A seamless, premium iOS-inspired interface! 🍏
+- ✅ **Package Installer** – A refreshed package installer interface! ✨
+> ⚠️ _**Warning : Don't install this HyperOS 1 Mods on POCO Devices !!!**_ <br>
+>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  _A separate build is available for POCO Devices._
 ## ⚡ HyperOS 2 Mods  
 ✨ **Features:**  
 - ✅ **SystemUI** – Enabled Blurs, Advance Textures and enhanced animations for premiumness! 💎
