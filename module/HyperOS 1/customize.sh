@@ -1,9 +1,8 @@
 packages="com.miui.packageinstaller com.google.android.packageinstaller com.android.packageinstaller"
 
 
-========================================
+ui_print "========================================
 "
-}
 
 set_variables() {
   RESDIR=/data/adb/bak
@@ -15,6 +14,8 @@ check_support() {
     ui_print "- Checking support..."
     if [ "$android_ver" -lt 14 ]; then
         abort "- Your Android version is not supported"
+    else
+        ui_print "- Android $android_ver is supported!"
     fi
 }
 
@@ -22,7 +23,7 @@ save_deviceLevelList() {
     echo "-"
     if [ -s "$RESDIR/default_deviceLevelList.txt" ]; then
         echo "- The deviceLevelList backup file already exists and is not empty."
-        echo "- Skipping creating backup."
+        echo "- Skipping backup creation."
         return
     fi
     
@@ -126,7 +127,7 @@ install_package() {
 }
 
 add_installer() {
-    ui_print "- Installing files for Android $android_ver"
+    ui_print "- Installing package installer for Android $android_ver"
     
     uninstall_updates
     
@@ -170,10 +171,10 @@ credits() {
     echo "-"
     echo "- HyperOS 1 Mods by VizXtreme"
     echo "- For any device running on HyperOS 1 !"
-    echo "- Disable \` Unmount Modules \` in KernelSU settings to prevent abnormalities."
-    echo "- Check me out at \`https://github.com/VizXtreme/\`!"
+    echo "- Disable \`Unmount Modules\` in KernelSU settings to prevent abnormalities."
+    echo "- Check me out at \`https://github.com/VizXtreme\` !"
     sleep 0.3
-    echo "——  Thank you for using HyperOS 1 Mods ! ——"
+    echo "——  Thank you for using HyperOS 1 Mods !  ——"
     echo "-"
     sleep 2
 }
