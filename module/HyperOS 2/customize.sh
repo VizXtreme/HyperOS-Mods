@@ -7,12 +7,15 @@ if ! $BOOTMODE; then
 fi
 
 . $MODPATH/utils.sh
-
-check_support
-set_variables
-save_deviceLevelList
-set_highend
-finisher
-credits
-
-# EOF
+    check_support
+    set_variables
+    unzip -o "$ZIPFILE" -x 'META-INF/*' -d "$MODPATH" >&2
+    save_deviceLevelList
+    install_files || exit 1
+    set_highend
+    set_permissions
+    cleanup
+    credits
+    finisher
+	
+#EOF

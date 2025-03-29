@@ -1,4 +1,6 @@
 ro.miui.backdrop_sampling_enabled=true
+ro.miui.product.home=com.miui.home
+ro.control_privapp_permissions=
 ro.config.low_ram.middle.threshold_gb=2
 ro.miui.has_real_blur=true
 sf.blurs_are_expensive=1

@@ -1,9 +1,5 @@
-#!/bin/sh
-. ./utils.sh
+#!/system/bin/sh
 
-set_variables
-restore_deviceLevelList
-credits
-exit 0
+    rm -rf /data/resource-cache/* /data/system/package_cache/* /cache/* /data/dalvik-cache/*
 
-# EOF
+    
