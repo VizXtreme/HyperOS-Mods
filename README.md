@@ -13,7 +13,7 @@ Whether you're on **HyperOS 1** or **HyperOS 2**, these modules bring a fresh ne
 - ✅ **iOS Launcher Mod** – A seamless, premium iOS-inspired interface! 🍏
 - ✅ **Package Installer** – A refreshed package installer interface! ✨
 > ⚠️ _**Warning : Don't install this HyperOS 1 Mod on POCO Devices !!!**_ <br>
->  _A separate build is available for POCO Devices._
+>  _A separate build is available for POCO Devices (without iOS launcher mod)._
 ## ⚡ HyperOS 2 Mods  
 ✨ **Features:**  
 - ✅ **SystemUI** – Enabled Blurs, Advance Textures and enhanced animations for premiumness! 💎
