@@ -1,7 +1,7 @@
 # 🚀 HyperOS Mods – Elevate Your Experience! 🔥💥  
 
 Unleash the full potential of your device with **HyperOS Mods**!  
-Whether you're on **HyperOS 1** or **HyperOS 2**, these modules bring a fresh new vibe with enhanced visuals and sounds. 🎨
+Whether you're on **HyperOS 1 (Android 14)** or **HyperOS 2 (Android 15)**, these modules bring a fresh new vibe with enhanced visuals and sounds. 🎨
 
 ## ⚡ HyperOS 1 Mods  
 ✨ **Features:**  
