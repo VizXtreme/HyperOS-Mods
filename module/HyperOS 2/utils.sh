@@ -147,7 +147,7 @@ credits() {
     echo ""
     ui_print "- HyperOS 2 Mods by VizXtreme"
     ui_print ""
-    ui_print "- Compatible with HyperOS 2"
+    ui_print "- Compatible with HyperOS 2 (POCO Devices too!)"
     ui_print ""
     ui_print "- Disable 'Unmount Modules' in KernelSU settings to prevent issues."
     ui_print ""
